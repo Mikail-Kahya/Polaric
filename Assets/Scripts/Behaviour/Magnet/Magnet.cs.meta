@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ff4779d82f5cc834bab38955b3cd922e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _materialNorth: {fileID: 2100000, guid: 8eb46aebe13cdfd4484fd2ab78b2cc2f, type: 2}
+  - _materialSouth: {fileID: 2100000, guid: 1484d6696ea79e34bb455cf82a50910b, type: 2}
+  - _materialInactive: {fileID: 2100000, guid: 15a177e7c0035f34288ca5a633c99b94, type: 2}
+  - _magneticFieldTemplate: {fileID: 5165607048217186546, guid: 7cb73a11c5681994299345eba0001b99,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8b96e314e2481014f816c30b8faf5bc7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _playerTemplate: {fileID: 4741105325091070301, guid: f512983b185e2fc42b151939480d430e,
+      type: 3}
+  - _followCameraArmTemplate: {fileID: 149811023527480926, guid: 2e5d9310123b4b347978d2caae882493,
+      type: 3}
+  - _cameraTemplate: {fileID: 5408771688807536738, guid: 73c7f44f1bd803d42be9fd91564701fd,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

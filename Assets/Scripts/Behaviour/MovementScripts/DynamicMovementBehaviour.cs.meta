@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5333d0168fd1fbb46bc460d404f158aa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _airPhysics: {fileID: 13400000, guid: f74570fd452f750418757c6feda6b392, type: 2}
+  - _groundedPhysics: {fileID: 13400000, guid: 42903230201f07d4998f02010ce0d746, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
